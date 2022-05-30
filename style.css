@@ -1,0 +1,34 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #detected_or_not
+{
+    font-size: 18px;
+    border: 2px solid black;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+#note
+{
+    background-color: orange;
+    border: 5px solid black;
+    border-radius: 5px;
+    width: 40%;
+}
